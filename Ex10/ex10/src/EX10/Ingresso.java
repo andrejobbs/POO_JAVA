@@ -6,10 +6,10 @@ public class Ingresso {
     
 
     public int ingressoNormal(){
-        return (ingresso_normal)/50;
+        return (ingresso_normal);
     }
     public int ingressoVip(){
-        return (ingresso_normal+10)/60;
+        return (ingresso_normal+10);
     }
 
 }
